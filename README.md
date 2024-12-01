@@ -1,1 +1,1 @@
-
+Developed an ML-based resume screening system, improving candidate categorization accuracy by 25\% and reducing screening time by 30\%, with automated parsing and personalized job recommendations using NLP and classification algorithms.
